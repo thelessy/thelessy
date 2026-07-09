@@ -47,6 +47,7 @@ Founder @ Softsprout | Cyber Security | Full Stack Web & Game Developer & Securi
 ## GitHub Stats
 
 <img src="https://github-stats-alpha.vercel.app/api?username=Lessyzz&cc=000&tc=fff&ic=fff&bc=000" alt="GitHub Stats" />
+<img src="https://github-stats-alpha.vercel.app/api?username=thelessy&cc=000&tc=fff&ic=fff&bc=000" alt="GitHub Stats" />
 
 ## GitHub Trophies
 
